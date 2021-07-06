@@ -5,4 +5,4 @@ First, task2.html which holds the main page where it shows buttons that indicate
 
 Second, insert2.php which holds the connection to the database and insertion SQL queries based on the button pressed by the user, it will add data to the database accordingly. 
 
-Lastly, the smartmethods.sql file which holds the details of the database.
+Lastly, the movement.sql file which holds the details of the database.
